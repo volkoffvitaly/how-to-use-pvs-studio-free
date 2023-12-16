@@ -24,7 +24,7 @@ Getting up and running
 ### Windows:
 
   1. Install Visual Studio 2017 or higher. All desktop editions of Visual Studio can build this utility;
-  2. Install CMake (10.3 or higher);
+  2. Install CMake (3.10 or higher);
   3. Open your source folder in Developer Command Prompt and run the following commands:
   
   ```
@@ -37,7 +37,7 @@ Getting up and running
 ### Linux/macOS:
 
   1. Install GCC (8 or higher);
-  2. Install CMake (10.3 or higher);
+  2. Install CMake (3.10 or higher);
   3. Open your source folder in Terminal and run the following commands:
 
   ```
